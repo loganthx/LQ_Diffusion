@@ -1,7 +1,7 @@
 # LQ_Diffusion
 Sampling Liquid Crystal Textures with Denoising Diffusion Probabilistic Models
 
-Using Improved Diffusion as benchmark, we tested on our novel dataset liquid crystals. We discovered that the linear schedules lead to better losses later in training for our dataset.
+Using Improved Diffusion as a benchmark, we evaluated our approach on a novel liquid crystal dataset. We observed that linear noise schedules yield lower losses in the later stages of training for this dataset.
 
 Generated Textures (linear schedule):
 
